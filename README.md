@@ -12,7 +12,4 @@ This repository showcases an analysis of Germany's economic data using the **Syn
 - R version >= 4.0.0
 - Key packages: `Synth`, `ggplot2`, `dplyr`, `tidyr`
 
-## Usage
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/repository-name.git
+
