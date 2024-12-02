@@ -1,2 +1,18 @@
-Synthetic Control Analysis in R
-This repository analyzes Germany's economic data using the Synthetic Control Method in R. It evaluates the impact of interventions by constructing counterfactual scenarios. Features include data cleaning, exploratory data analysis with ggplot2, and high-quality visualizations. The Synthetic Control Method enables robust causal inference, comparing actual outcomes to simulated alternatives. This project is ideal for researchers interested in econometric methods and causal analysis. Key packages: Synth, ggplot2, dplyr, tidyr. Clone the repo, install dependencies, and run the analysis script to replicate findings. Contributions are welcome.
+# Synthetic Control Analysis in R
+
+This repository showcases an analysis of Germany's economic data using the **Synthetic Control Method** in **R**. The methodology constructs counterfactual scenarios to evaluate the impact of interventions, providing robust causal insights.
+
+## Features
+- **Synthetic Control Method**: Compare actual outcomes with simulated alternatives.
+- **Data Cleaning**: Prepares raw data for analysis.
+- **Exploratory Data Analysis (EDA)**: Trends and patterns visualized with `ggplot2`.
+- **Custom Visualizations**: High-quality plots for insights.
+
+## Requirements
+- R version >= 4.0.0
+- Key packages: `Synth`, `ggplot2`, `dplyr`, `tidyr`
+
+## Usage
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/repository-name.git
